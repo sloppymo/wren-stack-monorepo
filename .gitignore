@@ -63,3 +63,8 @@ pnpm-lock.yaml
 
 # ---- Build Artifacts ----
 # (add more as needed for Storybook, Cypress, etc.)
+.env
+.env.local
+.env.development
+.env.production
+.env.*
